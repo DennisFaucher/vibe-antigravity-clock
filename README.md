@@ -4,7 +4,7 @@ A floating, round, Swiss railway clock for Linux desktops.
 
 Built with Google Antigravity. Thanks Uncle Goog.
 
-!(https://github.com/DennisFaucher/vibe-antigravity-clock/blob/main/images/SwissClock.png)
+![Screenshot](images/SwissClock.png)
 
 ## Features
 
