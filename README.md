@@ -1,6 +1,7 @@
 # SwissClock
 
 A floating, round, Swiss railway clock for Linux desktops.
+Built with Google Antigravity. Thanks Uncle Goog.
 
 ## Features
 
@@ -24,7 +25,7 @@ A floating, round, Swiss railway clock for Linux desktops.
 1.  Clone the repository:
     ```bash
     git clone <repository-url>
-    cd SwissClock
+    cd vibe-antigravity-clock
     ```
 
 2.  Create a build directory:
