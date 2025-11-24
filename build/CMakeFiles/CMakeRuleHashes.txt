@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+f4f88cd8ad208870c9c14f5055456361 CMakeFiles/SwissClock_autogen
+f4f88cd8ad208870c9c14f5055456361 CMakeFiles/SwissClock_autogen_timestamp_deps
+c02cc4507c6201be8e0a6f3a111e2cfc SwissClock_autogen/UVLADIE3JM/qrc_resources.cpp
+1f4e059cc445efa22588ebe546bad865 SwissClock_autogen/timestamp

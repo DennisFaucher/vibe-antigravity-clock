@@ -1,0 +1,5 @@
+/home/dennis/Documents/Personal/Programming/Antigravity/SwissClock/build/CMakeFiles/SwissClock.dir
+/home/dennis/Documents/Personal/Programming/Antigravity/SwissClock/build/CMakeFiles/edit_cache.dir
+/home/dennis/Documents/Personal/Programming/Antigravity/SwissClock/build/CMakeFiles/rebuild_cache.dir
+/home/dennis/Documents/Personal/Programming/Antigravity/SwissClock/build/CMakeFiles/SwissClock_autogen_timestamp_deps.dir
+/home/dennis/Documents/Personal/Programming/Antigravity/SwissClock/build/CMakeFiles/SwissClock_autogen.dir
