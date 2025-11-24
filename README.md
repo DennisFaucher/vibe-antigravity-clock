@@ -1,6 +1,7 @@
 # SwissClock
 
 A floating, round, Swiss railway clock for Linux desktops.
+
 Built with Google Antigravity. Thanks Uncle Goog.
 
 ## Features
